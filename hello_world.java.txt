@@ -1,4 +1,4 @@
-public static void mian (string args){
+public static void mian (string args()){
 
 
 system.print.out(i am learing git )
